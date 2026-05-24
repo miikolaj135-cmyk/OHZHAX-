@@ -36,7 +36,7 @@ async function startRoom() {
             maxPlayers: 16,
             public: true,
             noPlayer: true,
-            token: "TUTAJ_WLEJ_SWOJE_NOWE_TOKEN_HEADLESS", // <--- Tutaj szybko wklejasz token!
+            token: "thr1.AAAAAGoSi9t9bJRS77oAjQ.CCeLu9Gao4E", // <--- Tutaj szybko wklejasz token!
             geo: { 
                 code: "es", 
                 lat: 40.4167, 
